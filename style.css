@@ -16,6 +16,7 @@
     width:25%;
     border-radius:50%;
     background-color:black;
+    transition: all 0.7s;
 }
 
 h1
