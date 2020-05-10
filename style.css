@@ -1,0 +1,25 @@
+#border
+{
+    margin:25px auto 50px;
+    border:2px solid black;
+    height:40px;
+    width:140px;
+    border-radius:20px;
+    padding:2px;
+    box-sizing:border-box;
+    cursor:pointer;
+}
+
+#ball
+{
+    height:100%;
+    width:25%;
+    border-radius:50%;
+    background-color:black;
+}
+
+h1
+{
+    font-size:5rem;
+    text-align:center;
+}
